@@ -31,7 +31,7 @@ python3 main.py ./test3.jpg
 
 ![example output](./print.jpg "Example Output")
 
-### Dactivate the virtual env
+### Deactivate the virtual env
 ```bash
 deactivate
 ```
