@@ -1,5 +1,7 @@
 # Passport Image Grid Generator
 
+Python3 is required
+
 ## Install
 
 ```bash
